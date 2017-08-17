@@ -1,0 +1,10 @@
+body {
+  font-family: 'Courier', sans-serif;
+}
+
+.center {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  letter-spacing: 3px;
+}

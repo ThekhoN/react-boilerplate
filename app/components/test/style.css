@@ -1,0 +1,4 @@
+.test {
+  composes: center from '../../styles-global/style.css';
+  color: orange;
+}
